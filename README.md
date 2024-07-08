@@ -17,6 +17,8 @@ SQS Send requests from backend to the payment and send message to the customers
 Payment Cryptography to secure data in payment processing in accordance with various PCI standards. 
 Transit Gateway To connect between VPCs 
 
+
  
 
                                                                                                                                            
+![AWS Diagram](https://github.com/georgemcit/cloudfunction/assets/168286516/26cc9c78-c10d-4015-875d-a014e1760dd0)
