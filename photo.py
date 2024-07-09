@@ -43,3 +43,5 @@ def uploadToGCS(faces, file_name):
     new_blob = face_bucket.blob(uploadfilename)
     new_blob.upload_from_filename(temp_local_filename)
     print(f"Face Response uploaded to: gs://{face_bucket}/{uploadfilename}")
+#google-cloud-vision==2.6.1
+#google-cloud-storage==1.42.2
