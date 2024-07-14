@@ -1,4 +1,4 @@
-![Social Media1](https://github.com/user-attachments/assets/67abbff9-acc5-4483-b7fc-1a214dbc2a62)
+![Azure Social Media](https://github.com/user-attachments/assets/71cb9096-ec95-41ae-955b-a5bfd2146a4c)
                                                                                                                                           
 ![E-learning1](https://github.com/user-attachments/assets/2e0c971f-679b-4a71-a2d6-1a104e6ef884)
 
